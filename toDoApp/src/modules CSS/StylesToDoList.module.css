@@ -1,0 +1,38 @@
+/* Styles rules for Task list and buttons ADD-DELETE */
+
+.container{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1.5px solid black;
+    border-radius: 2rem;
+    height: 100%;
+    margin:0 15rem;
+    padding: 1.2rem;
+} 
+
+
+button{
+
+    margin: 1.2rem;
+    border-radius: 25px;
+}
+
+.add{
+    background-color:mediumseagreen;
+    color: white;
+    font-weight: 700;
+    padding: 0.3rem;
+
+}
+
+.delete{
+
+    background-color:rgb(223, 84, 112);
+    color: white;
+    font-weight: 700;
+    padding: 0.3rem;
+}
+
