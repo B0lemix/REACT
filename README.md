@@ -3,7 +3,7 @@ Learning Apps projects using React and other utilities like Tailwind, Material U
 
 
 <ul style="list-style-type: none; padding:10px">
-<li><h2>toDoApp</h2> - a To Do App: create, delete and update todos. Styled  Uses useEffect/useState hook. using CSSS</li>
+<li style="list-style-type: none; padding:10px"><h2>toDoApp</h2> - a To Do App: create, delete and update todos. Styled  Uses useEffect/useState hook. using CSSS</li>
 <li><h2>libraryApp</h2> - a Netflix Style App with items. Styled  Uses useEffect/useState/useRef hook. using CSS in JS</li>
 <li><h2>EmojiSelector</h2> - Selector Emojis using words coincidence.   Uses useEffect/useState/useRef hook.. Styled using CSS in JS</li>
 <li><h2>weatherApp</h2> - Search and city and display the weather and location.  Uses useEffect/useState hook.  Styled using CSS MODULES</li>
